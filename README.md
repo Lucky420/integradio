@@ -1,4 +1,4 @@
-![Postipoiss — viienda võimu südametunnistus](/postipoiss.svg)
+![Postipoiss — viienda võimu südametunnistus](/postipoiss.png)
 
 __Eesti kodanikumeedia agregaatori projekt [Loomehäkk vol 6](https://fienta.com/loomehakk-vol-6-creativetech) häkatoni jaoks__
 
