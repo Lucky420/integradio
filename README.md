@@ -5,7 +5,7 @@ __Eesti kodanikumeedia agregaatori projekt [Loomehäkk vol 6](https://fienta.com
 Eesmärgid (valime jõukohase kombo):
 
 * Agregeerime podcaste
-* Märksõnasame, teeme need otsitavaks
+* Märksõnastame, teeme need otsitavaks
 * Võimaldame teha pleiliste
 * Võimaldame neid jagada
 * Teeme podcastide edetabeli
