@@ -1,0 +1,289 @@
+
+//Variables
+
+$mainBlue : #D9F4ED;
+$greenish: #23e4ad;
+
+
+$lightBlue : #ddf3ed;
+
+$muli :'Muli', sans-serif;
+
+
+
+
+
+
+
+
+
+
+
+html{
+  *{
+    font-family:$muli;
+    color:#202025;
+  }
+}
+
+
+
+
+
+
+///header
+
+.navigation{
+  position:absolute;
+  height:120px;
+  width:100%;
+  background:$mainBlue;
+  .container{
+    height:100%;
+
+    .row{
+      height:100%;
+      display:flex;
+      align-items:center;
+
+      h1.logo{
+        font-size: 25px;
+        font-weight: 800;
+      }
+    }
+  }
+}
+
+
+
+
+
+//body
+
+
+.hero {
+  padding-top:120px;
+  background:$mainBlue;
+  height:670px;
+  .hero-left {
+    margin-top: 35px;
+    h1 {
+      font-weight: 800;
+      font-size: 47px;
+    }
+
+    p{
+      margin-top: 28px;
+      font-size:18px;
+      letter-spacing: -0.2px;
+      line-height: 33px;
+      font-weight:300;
+    }
+  }
+
+  .hero-left-inner{
+    margin-top:35px;
+    h1{
+      font-weight:800;
+      font-size:47px;
+    }
+    p{
+      margin-top: 28px;
+      font-size:18px;
+      letter-spacing: -0.2px;
+      max-width: 460px;
+      line-height: 33px;
+      font-weight:300;
+    }
+  }
+
+
+  .hero-right-inner{
+    margin-top:35px;
+    img{
+      width:100%;
+      border-radius:30px;
+      max-width:550px;
+    }
+  }
+
+  .player{
+    position: absolute;
+    height: 250px;
+    background: white;
+    width: 100%;
+    margin-top: 40px;
+    border-radius: 30px;
+    -webkit-box-shadow: 0px 42px 70px 15px rgba(0,0,0,0.1);
+    -moz-box-shadow: 0px 42px 70px 15px rgba(0,0,0,0.1);
+    box-shadow: 0px 42px 70px 15px rgba(0,0,0,0.1);
+
+    &.search-box{
+      height:200px;
+    }
+
+    &.search-box{
+      display:flex;
+      align-items:center;
+
+      .large-search-front{
+        display:flex;
+        flex-direction: row;
+        align-items: center;
+        font-size:35px;
+        .search-sample{
+          margin-left:20px;
+          color:$mainBlue;
+        }
+        .fas{
+          color: $greenish;
+        }
+      }
+    }
+    .player-top{
+      border-bottom:3px solid $greenish;
+      margin: 0 50px;
+      width:100%;
+      .player-title{
+        .player-title-content{
+          padding: 25px 10px 0 10px;
+          .player-title-title{
+            font-size: 22px;
+            font-weight: 800;
+          }
+          .episode-numbers{
+            font-size: 12px;
+            font-weight: 800;
+            text-transform: uppercase;
+            color: $greenish;
+          }
+          .listening-stats{
+            font-size:10px;
+            margin-bottom:3px;
+            .fa-play{
+              color:$greenish;
+            }
+          }
+        }
+      }
+    }
+    .player-bottom{
+      margin: 0 50px;
+      display:flex;
+      flex-direction: row;
+      align-items: center;
+      height:140px;
+
+      .play-button{
+        width:100px;
+        height:100px;
+        font-size:50px;
+      }
+      .player-waves{
+        padding-left:70px;
+      }
+    }
+
+
+  }
+
+
+}
+
+.play-button{
+  text-align:center;
+  padding-left:1.1%;
+  display:flex;
+  align-items: center;
+  -webkit-box-shadow: 0px 42px 70px 15px rgba(0,0,0,0.1);
+  -moz-box-shadow: 0px 42px 70px 15px rgba(0,0,0,0.1);
+  box-shadow: 0px 42px 70px 15px rgba(0,0,0,0.1);
+  border-radius:90px;
+  .fa-play{
+    color:$greenish;
+    width:100%;
+  }
+
+}
+
+.body{
+  margin-top:250px;
+}
+
+
+.seasons{
+  display:flex;
+  .season{
+    margin-right:20px;
+    cursor:pointer;
+
+    &:hover{
+
+    }
+  }
+}
+
+.green-round{
+  background: $lightBlue;
+  padding: 10px 20px;
+  border-radius: 90px;
+  font-weight:800;
+
+  &.active{
+    color:white;
+    background:$greenish;
+  }
+}
+
+
+
+.recent{
+  margin-top:50px;
+
+  h2{
+    font-weight:800;
+  }
+
+  img{
+    margin-left: -55px;
+    max-width:100%;
+  }
+}
+
+.languages{
+  float:right;
+}
+
+table{
+  text-align:center;
+  th{
+    border-top:1px solid transparent !important;
+
+  }
+  td, th{
+    width:300px;
+  }
+  th{
+    color:$greenish;
+  }
+}
+
+.table{
+  margin-top:50px;
+  h2{
+    font-weight:800;
+    text-align:center;
+    margin-bottom:40px;
+  }
+  padding:20px;
+  border-radius:30px;
+  -webkit-box-shadow: 0px 42px 70px 15px rgba(0,0,0,0.1);
+  -moz-box-shadow: 0px 42px 70px 15px rgba(0,0,0,0.1);
+  box-shadow: 0px 42px 70px 15px rgba(0,0,0,0.1);
+}
+
+body{
+  height:2000px;
+}
+
+
