@@ -1,0 +1,628 @@
+"Podcast: Globaalsed eestlased" ; 543 ; 35
+;;; "#035: Joanna-Maria Helinurm – arhitekt, kes mängib füüsilise ning virtuaalse maailma piiril" ; 308 ; 17 ; 1 ; 0
+;;; "#034: Kaido Höövelson ehk Baruto – Eesti-Jaapani kultuuride sild" ; 398 ; 28 ; 4 ; 0
+;;; "#033 / EV100: Lauri Mälksoo – rahvusriigid, küberajastu ning rahvusvaheline õigus 21. sajandil" ; 526 ; 35 ; 6 ; 0
+;;; "#GE032: Marit Zahkna – eesti matemaatikaõpetaja suure maailma avarustes" ; 548 ; 28 ; 5 ; 0
+;;; "#031: Riina Raudne – ühiskondlikult keeruliste teemade mõtestaja" ; 566 ; 41 ; 7 ; 0
+;;; "#030: Edward Lucas – a sharp pencil, our first e-resident, defender of democracy in Europe" ; 344 ; 19 ; 2 ; 0
+;;; "#029: Kaire van der Toorn-Guthan – graafiline disainer, kes vaatab Eestit läbi 100 silmapaari" ; 493 ; 27 ; 3 ; 0
+;;; "#028: Arabist Peeter Raudsik – kuidas mõista araabia maid?" ; 588 ; 42 ; 3 ; 0
+;;; "#27: Taavi Kotka – kuidas teha Eestit suuremaks?" ; 688 ; 45 ; 12 ; 0
+;;; "#026: Allan-Hermann Pool – neuroteadus kui tulevikuvaldkond" ; 547 ; 39 ; 2 ; 0
+;;; "#025: President Toomas Hendrik Ilves – inimene, kes aitas Eesti maailmakaardile" ; 843 ; 0 ; 7 ; 0
+;;; "#024: Pipedrive’i juht Timo Rein – mis hetkest saab kellestki hea müügiinimene?" ; 965 ; 48 ; 11 ; 0
+;;; "#023: sotsiaalantropoloog Aet Annist – kuidas toimib inimene ühiskonnaliikmena?" ; 626 ; 45 ; 3 ; 0
+;;; "#022: Martin Kuuskmann – maailma tippu jõudnud fagotivirtuoos, kes mõtleb nagu laulja" ; 516 ; 25 ; 2 ; 0
+;;; "#021: Karoli Hindriks – mõtestades lahti 21. sajandi tööjõuturgu" ; 714 ; 47 ; 7 ; 0
+;;; "#020: Steve Jurvetson – polymath, world renowned venture capitalist, thinker of human evolution" ; 1697 ; 71 ; 23 ; 0
+;;; "#019: Katrin Kalmurand – ettevõtlik eestlanna Peruus ja tema neli elu" ; 701 ; 40 ; 2 ; 0
+;;; "#018: Ave Lauren – tõmbe- ja tõukefaktorid inimeste rändes 21. sajandil" ; 451 ; 31 ; 3 ; 0
+;;; "#017: Erika Ilves – juristist ärikonsultandiks, futuristist kosmose-ettevõtjaks" ; 541 ; 43 ; 2 ; 0
+;;; "#016: Björn Koop – mida tähendab olla autodisainer isesõitvate autode ajastu eel?" ; 596 ; 43 ; 2 ; 0
+;;; "#015: Urmas Väljaots – teekond väikesest Eestist suurde parfümeeriamaailma" ; 583 ; 35 ; 2 ; 0
+;;; "#014: Marju Randmer-Nellis – otsides kõike, mis teeb hingele pai" ; 897 ; 41 ; 7 ; 0
+;;; "#013: Marina Kaljurand – Eesti diplomaatia raudvara, kes paneb end proovile" ; 768 ; 32 ; 4 ; 0
+;;; "#012: Aro Velmet – kultuuri- ja teadusajaloolane, kes õpetab küsima “miks?”" ; 982 ; 45 ; 2 ; 0
+;;; "#011: Rain Rannu – raamatumüüjast globaalse ettevõtteni; ingelinvestorist filmiprodutsendini" ; 1281 ; 46 ; 9 ; 1
+;;; "#010: Jenik Radon – maailmakodanik, kes avas Eestile uksi" ; 676 ; 29 ; 3 ; 0
+;;; "#009: Maria Juur – Eesti elektroonilise muusika saadik maailmas" ; 2141 ; 39 ; 16 ; 0
+;;; "#008: Jüri Arrak 80 – eesti kunsti grand old man" ; 777 ; 43 ; 3 ; 0
+;;; "#007: Marek Kiisa elu kiirteedel – vormelisõitjast autoinseneriks; ettevõtjast ingelinvestoriks" ; 934 ; 47 ; 15 ; 0
+;;; "#006: Irma Kaljulaid – 7 keelt rääkiv polüglott, sild Euroopa rahvaste vahel" ; 1064 ; 52 ; 6 ; 0
+;;; "#005: Indrek Laul – Juilliardi klaverivirtuoos, Estonia klaverivabriku omanik" ; 795 ; 44 ; 8 ; 0
+;;; "#004: Alar Kolk – kuidas päästa Euroopa majandust?" ; 1030 ; 60 ; 8 ; 5
+;;; "#003: Mari Joller – kus jookseb piir inimese ja tehisintellekti vahel?" ; 1180 ; 62 ; 7 ; 0
+;;; "#002: Hardi Meybaum – TTÜ mehaanikainsenerist USA riskiinvestoriks" ; 1694 ; 54 ; 18 ; 1
+;;; "#001: Sten Tamkivi – IT ettevõtja ja reaalmaailma mõtleja" ; 2079 ; 34 ; 23 ; 0
+"Hääl/kastis Podcast" ; 11 ; 4
+;;; ""Farmer Mäva ja päälinna printsess Mikk" aka "Naiste loogika" ; 44 ; 0 ; 4 ; 0
+;;; "jõulud ja jõulutraditsiionid #podcast" ; 55 ; 0 ; 1 ; 0
+;;; "Interneti käekiri "nutinoored"" ; 56 ; 0 ; 5 ; 0
+;;; "Interneti käekiri" ; 41 ; 0 ; 4 ; 0
+"Meie Nädala Lood" ; 1 ; 9
+;;; "8. Lugu - DnD" ; 10 ; 1 ; 0 ; 0
+;;; "7. lugu - E3" ; 39 ; 0 ; 0 ; 0
+;;; "6. lugu  - Rootsi ja Kanye Westi suveprojekt" ; 22 ; 0 ; 0 ; 0
+;;; "5. lugu - "Deadpool 2" ja "Always Ascending"+"Tranquility Base Hotel & Casino"" ; 80 ; 0 ; 0 ; 0
+;;; "4. lugu - Eesti podcastid ja Fortnite" ; 76 ; 0 ; 1 ; 0
+;;; "3. lugu - Stand-up, Lord Huron ja "Atomic Blonde"" ; 30 ; 0 ; 0 ; 0
+;;; "2. lugu - "Avengers: Infinity War"" ; 30 ; 0 ; 0 ; 0
+;;; "1. lugu - "A Quiet Place" ja ambient videomängud" ; 54 ; 0 ; 1 ; 0
+;;; "0. lugu - "The Grand Tour" ja "A Quiet Place"" ; 30 ; 0 ; 1 ; 0
+"Mõtteaine" ; 153 ; 2
+;;; "02.04.2018 (Facebook ning sinu andmed veebis)" ; 398 ; 1 ; 1 ; 0
+;;; "27.03.2018 (Abistamine ja teiste eludesse sekkumine)" ; 465 ; 0 ; 1 ; 0
+"Naistejutud" ; 216 ; 50
+;;; "66. saade (8.09.2018): kas meest on võimalik ilusaks juua?" ; 845 ; 0 ; 2 ; 1
+;;; "65. saade (25.08.2018) in English!: Louis Zezeraniga naistest, deitimisest ja keskeakriisist" ; 1013 ; 0 ; 2 ; 0
+;;; "64. saade (18.08.2018): paljastame sekspoe telgitagused!" ; 1364 ; 0 ; 2 ; 0
+;;; "63. saade (11.08.2018): Naistejutud otse voodist!" ; 732 ; 0 ; 0 ; 0
+;;; "62. saade (4.08.2018): Mida teha, kui seksiisu ära kaob?" ; 1160 ; 0 ; 1 ; 0
+;;; "61. saade (21.07.2018): Mis tunne on olla paks?" ; 1096 ; 0 ; 1 ; 0
+;;; "60. saade (14.07.2018): Võtame luubi alla petmise!" ; 1259 ; 0 ; 2 ; 0
+;;; "59. saade (07.07.2018): kas jalgpall on parem kui seks?" ; 755 ; 0 ; 0 ; 0
+;;; "58. saade (30.06.2018): Miks mõnikord naised end mehe jaoks totaalselt muudavad?" ; 1102 ; 0 ; 1 ; 0
+;;; "57. saade (21.06.2018): Kirjanik Triin Tammert õpetab, kuidas märke lugeda ja elu usaldada" ; 1092 ; 0 ; 2 ; 0
+;;; "56. saade (14.06.2018): Avameelselt... abordist" ; 1110 ; 0 ; 3 ; 0
+;;; "55. saade (09.06.2018). Kuidas lahkuminekust üle saada?" ; 1041 ; 0 ; 3 ; 0
+;;; "54. saade: (2.06.2018)Kuidas võtta suhet aeglaselt, kui oled ülepeakaela armunud?" ; 1021 ; 0 ; 2 ; 0
+;;; "53. saade (26.05.2018) Mis oleks, kui otsiks eksile ise uue naise?" ; 869 ; 0 ; 0 ; 0
+;;; "«Naistejuttude» erisaade! Prints Harry võtab naise! (Ja miks meid see üldse huvitama peaks?)" ; 718 ; 0 ; 2 ; 0
+;;; "51. saade (12.05.2018): Miks see rasedus säärane piin peab olema?!" ; 803 ; 0 ; 0 ; 0
+;;; "50. saade (5.05.2018). Viis deiti ja kaks pulma" ; 894 ; 0 ; 2 ; 0
+;;; "49. saade (28.04.2018): kuidas mitte olla oma keha ori?" ; 1099 ; 0 ; 0 ; 0
+;;; "48. saade: Andra Teedega abieluettepanekutest, suhetest ja sellest, mis tegelikult pulmaööl toimub"
+;;; "47. saade (14.04.2018): miks mõned sõbrannad noa selga löövad?"
+;;; "46. saade (7.04.2018): Miks mehed argpükslikult põgenevad?"
+;;; "45. saade (1.04.2018). Kes on lahedamad - Eesti või välismaa mehed?"
+;;; "44. saade (24.03.2018): suhte anatoomia ehk kuidas teada, et suhe on õige ja kindel?"
+;;; "43. saade (17.03.2018): Seksiklubid - mis seal tegelikult toimub?"
+;;; "42. saade (10.03.2018): deitimise algõpetus ja kiirkursus meestele"
+;;; "41. saade (3.03.2018): mis on viga hallivarjunditega ehk milline on tõeline BDSM-maailm?"
+;;; "40. saade (14.02.2018): miks vallaline olla on häbiasi?"
+;;; "39. saade (10.02.2018): Miks on armastus on alati ebavõrdne?"
+;;; "Tiiser 10.02: Daki otsustab saatest lahkuda!"
+;;; "38. saade (03.02.2018): Miks me valime sittasid mehi?"
+;;; "37. saade (27.01.2018): Kas naisel üldse tasub olla enesekindel?"
+;;; "36. saade (20.01.2018): Miks armunud inimesed on nii lollakad?"
+;;; "Tiiser: millest homme räägime?"
+;;; "35. saade (13.01.2018): Kas suure vanusevahega suhe saab töötada?"
+;;; "34. saade (6.01.2018): Pannid ja dildod pooleks ehk Kuidas saada üle lahkuminekutest?"
+;;; "33. saade (30.12.2017): Ari Matti Mustoneniga meestest ja emotsionaalsetest retakatest"
+;;; "32. saade (15.12.2017): Naistejuttude laiv: kõik saladused letti!"
+;;; "31. saade (9.12.2017): Naiste kasutamise käsiraamat 2: kuidas on seotud seks ja tülid?"
+;;; "30. saade (2.12.2017): Mis te, naised, kurat vingute?!" ; 912 ; 0 ; 2 ; 0
+;;; "29. saade (25.11.2017): Naiste kasutamise käsiraamat" ; 1008 ; 0 ; 2 ; 0
+;;; "28. saade (18.11.2017) Epp Petronega rändamisest ja elumaagiast" ; 735 ; 0 ; 0 ; 0
+;;; "27. saade (11.11.2017) Paljastame kõik meeste saladused!" ; 1099 ; 0 ; 2 ; 0
+;;; "26. saade (4.11.2017): miks naised meeste järel nuhivad?" ; 822 ; 0 ; 1 ; 0
+;;; "25. saade (21.10.2017) Epp Petronega kirjutamisest ja lastest" ; 724 ; 0 ; 0 ; 0
+;;; "24. saade: naine kui toode" ; 1024 ; 0 ; 1 ; 0
+;;; "22. saade (30.09.2017): ärevushäired ja kuidas nendega elada" ; 932 ; 0 ; 1 ; 0
+;;; "21. saade (23.09.2017): Õnneliku kooselu saladus" ; 891 ; 0 ; 1 ; 0
+;;; "20. saade (16.09.2017): Aga kui seks läheb nihu?" ; 1465 ; 0 ; 2 ; 0
+;;; "19. saade (9.09.2017): Mis on hea seksi saladus?" ; 3310 ; 0 ; 3 ; 0
+;;; "18. saade (26.08.2017): mis tunne on olla ekshibitsionist?" ; 929 ; 0 ; 1 ; 0
+"Reisikaja" ; 86 ; 18
+;;; "Reisikaja 18. saade. Aive Ja Andrus Hiiepuu oma põnevast reisist Iraani, Omaani, Kuveiti ja Dubaisse" ; 0 ; 0 ; 0 ; 0
+;;; "Reisikaja 17. saade. Jaak Roosaare: USA on avastamiseks tohutult mitmekesine paik" ; 339 ; 0 ; 2 ; 1
+;;; "Reisikaja 16. saade. Riina Luik: Fääri saared on erakordse loodusega paik" ; 223 ; 0 ; 0 ; 0
+;;; "Reisikaja 15. saade. Thea Karin: Tuneesia on imetabane ja intelligentne riik" ; 367 ; 0 ; 2 ; 0
+;;; "Reisikaja 14. saade. Neeme Ja Sigrid: Poola on liiga lahe riik, et sellest lihtsalt läbi sõita" ; 315 ; 0 ; 2 ; 0
+;;; "Reisikaja 13. saade. Tarrvi Laamann: nii ongi, et jamaicalastel muresid pole" ; 160 ; 0 ; 0 ; 0
+;;; "Reisikaja 12. saade. Jane ja Tanel: metsiku loodusega Uganda on kui Aafrika "edasijõudnutele"" ; 201 ; 0 ; 1 ; 0
+;;; "Reisikaja 11. saade. Katre Trei- Araabia Ühendemiraadid on kui vastuoluline rahvaste paabel" ; 298 ; 0 ; 2 ; 0
+;;; "Reisikaja 10. saade. Rain Resmeldt Uusen- Malta on tõeline jalutaja paradiis" ; 350 ; 0 ; 0 ; 0
+;;; "Reisikaja 9. saade. Juhani Särglep- Maldiivid on kui tõeline paradiis, ka seljakotiränduritele" ; 645 ; 0 ; 3 ; 0
+;;; "Reisikaja 8. saade. Maria Kupinskaja- Uus-Meremaa ongi nii imeline nagu räägitakse" ; 385 ; 0 ; 1 ; 0
+;;; "7. saade Tiit Pruuli Antarktika loodusest, elustikust ning erinevustest Arktikaga" ; 367 ; 0 ; 2 ; 0
+;;; "6. saade. Georgi Beltadze- reisist Ukraina rindelinna Mariupolisse" ; 432 ; 0 ; 1 ; 0
+;;; "5.saade. Ivo Tšetõrkin- Peruu šamaanidest, Amazonase iseärasustest ja Machu Picchu võlust" ; 327 ; 0 ; 5 ; 0
+;;; "4. saade. Helen Adamson- reisiepideemiast ning paljudest eksootilistest retkedest" ; 541 ; 0 ; 3 ; 0
+;;; "3. saade. Berit Renser- Indoneesia kontrastidest, võludest ja valudest"
+;;; "2. saade. Katrin Tombak- matk Rootsi polaaraladele on kui rännak pooljumalate juurde"
+;;; "1. saade. Anete Kruusimägi- kuidas hakata elukutseliseks reisijaks?"
+"Tamara Podcast" ; 195 ; 50
+;;; "Tamara Podcast - Mattias ja Kristel Naanlaid" ; 333 ; 22 ; 7 ; 0
+;;; "Tamara Podcast - Margus ja Kristiina" ; 208 ; 5 ; 0 ; 0
+;;; "Tamara Podcast - Martin Malm" ; 272 ; 8 ; 2 ; 0
+;;; "Tamara Podcast - Siki Vol 2." ; 328 ; 6 ; 4 ; 0
+;;; "Tamara Podcast - Katrena Tenno" ; 182 ; 5 ; 4 ; 0
+;;; "Tamara Podcast - Silver Peeter Siiak 2" ; 274 ; 4 ; 3 ; 0
+;;; "Tamara Podcast - Laura Mallene" ; 191 ; 3 ; 2 ; 0
+;;; "Tamara Podcast - Mikk-Alvar Olle" ; 527 ; 7 ; 7 ; 0
+;;; "Tamara Podcast - Seksijutud Sikiga" ; 941 ; 6 ; 8 ; 0
+;;; "Tamara Podcast - Marko Kaldma" ; 283 ; 0 ; 10 ; 0
+;;; "Tamara Podcast - Sandra Raju" ; 329 ; 4 ; 6 ; 0
+;;; "Tamara Podcast - Kristina Partelpoeg" ; 562 ; 1 ; 11 ; 0
+;;; "Tamara Talks With Marko Oolo" ; 387 ; 5 ; 3 ; 0
+;;; "Tamara Talks With Ergi Asten" ; 454 ; 1 ; 4 ; 0
+;;; "Tamara Talks With Artjom Savitski" ; 304 ; 0 ; 2 ; 0
+;;; "with Silver Peeter Siiak" ; 286 ; 0 ; 8 ; 0
+;;; "Tamara Talks with Okym and Tiiu" ; 345 ; 3 ; 5 ; 0
+;;; "Tamara Talks With Rainer Ild and Sven Seinpere" ; 348 ; 2 ; 4 ; 0
+;;; "Tamara Talks with Marco Tasane" ; 482 ; 13 ; 7 ; 0
+;;; "Tamara Talks with Thomas & Nora" ; 180 ; 1 ; 2 ; 0
+;;; "Tamara Talks with Inna Kovaljova" ; 1702 ; 4 ; 8 ; 1
+;;; "Tamara Talks with Kristina Pärtelpoeg" ; 3284 ; 7 ; 52 ; 1
+;;; "Tamara Talks With Ari Matti Mustonen" ; 578 ; 4 ; 6 ; 1
+;;; "Tamara Talks with Hando Tõnumaa" ; 1405 ; 26 ; 12 ; 3
+;;; "Tamara Talks with Björn Norralt" ; 131 ; 0 ; 3 ; 1
+;;; "Tamara Talks with Lennart and Mihkel" ; 169 ; 1 ; 6 ; 7
+;;; "Tamara Talks with Ott Ramst ja Caspar Ruul" ; 222 ; 1 ; 7 ; 0
+;;; "Tamara Talks Music Special with Nora Von B" ; 298 ; 4 ; 6 ; 0
+;;; "Tamara Talks with Rauno Kutti" ; 339 ; 1 ; 5 ; 1
+;;; "Tamara Talks with Peeter Proos" ; 270 ; 2 ; 9 ; 1
+;;; "Tamara Talks with Rauno Meronen ja Martin Junna" ; 169 ; 3 ; 2 ; 0
+;;; "Tamara Talks with Joosep Vau 2 (aka PK)" ; 440 ; 1 ; 9 ; 0
+;;; "Tamara Talks with Rait Kangur 2" ; 149 ; 1 ; 3 ; 0
+;;; "Tamara Talks with Dan Stansbie again" ; 94 ; 1 ; 3 ; 0
+;;; "Tamara Talks with Kaia Oidekivi" ; 105 ; 1 ; 4 ; 1
+;;; "Tamara Talks With Sander Raudsepp" ; 237 ; 3 ; 4 ; 1
+;;; "Tamara Talks with Kristel Aaslaid" ; 411 ; 5 ; 8 ; 1
+;;; "Tamara Talks Guitar Special #2 With Kristjan, Len ja Henri" ; 123 ; 2 ; 2 ; 0
+;;; "Tamara Talks With Sander Sink" ; 100 ; 3 ; 3 ; 0
+;;; "Tamara Talks with Kaupo and Mihkel" ; 104 ; 0 ; 2 ; 1
+;;; "Tamara Talks with Kunstnik Maria Evestus" ; 120 ; 3 ; 5 ; 0
+;;; "Tamara Talks with Triinu Lomp" ; 161 ; 1 ; 5 ; 0
+;;; "Tamara Talks with Kristjan Põld" ; 164 ; 2 ; 3 ; 0
+;;; "Tamara Talks with actor Rauno Meronen" ; 139 ; 1 ; 9 ; 0
+;;; "Tamara Talks With Nora Von B" ; 305 ; 3 ; 4 ; 0
+;;; "Tamara Talks With Oskar Malleus" ; 145 ; 1 ; 6 ; 0
+;;; "Tamara Talks Music Special with Len + Henri" ; 92 ; 0 ; 6 ; 0
+;;; "Tamara Talks Episode  8  Rait Kangur" ; 102 ; 1 ; 4 ; 1
+;;; "Tamara Talks Episode 7 Joosep Vau" ; 688 ; 2 ; 15 ; 0
+;;; "Tamara Talks Episode 6 Kristjan (420 special)" ; 163 ; 0 ; 5 ; 0
+"Täitsa Pekkis" ; 26 ; 5
+;;; "Täitsa Pekkis - #4 Liisa-Maria Connor - Distsipliin ja harjumused" ; 629 ; 0 ; 1 ; 0
+;;; "Täitsa Pekkis - #3 Priit Mihkelson - Jonnakus viib sihile" ; 183 ; 0 ; 0 ; 0
+;;; "Täitsa Pekkis -  #2 Kris Leinatamm - Loobu "Ma ei saa" mentaliteedist" ; 105 ; 0 ; 0 ; 0
+;;; "Täitsa Pekkis - #1 Kaido Pajumaa - Vaimsus ja rahu" ; 136 ; 0 ; 0 ; 0
+;;; "Täitsa Pekkis - #0 Katrin Ja Mihkel - Miks me alustasime?" ; 124 ; 0 ; 0 ; 0
+"Ettevõtlusraadio" ; 92 ; 40
+;;; "TÜ avatud innovatsiooni programm ettevõtjale ja teadlastele" ; 8 ; 0 ; 0 ; 0
+;;; "Äritegevus Ukrainas" ; 25 ; 0 ; 0 ; 0
+;;; "Ettevõtte juriidika" ; 43 ; 0 ; 6 ; 0
+;;; "Targad lepingud ja ICO" ; 142 ; 0 ; 3 ; 0
+;;; "Krüptoraha kaevandamine" ; 80 ; 0 ; 1 ; 0
+;;; "Industry 4.0 ja Eesti majandus" ; 54 ; 0 ; 2 ; 0
+;;; "Pensionirahade investeerimine ettevõtetesse" ; 37 ; 0 ; 3 ; 0
+;;; "Kaubandus ja pangandus" ; 36 ; 0 ; 1 ; 0
+;;; "Tallinna Ettevõtlusameti kasulikkus ettevõtjale" ; 38 ; 0 ; 1 ; 0
+;;; "Click & Crow kasvulugu" ; 57 ; 0 ; 1 ; 0
+;;; "Fondid ja ettevõtte rahastus võimalused - Peter Priisalm" ; 80 ; 0 ; 1 ; 0
+;;; "Üüri- ja kinnisvaraturg ettevõtluses - Tõnu Toompark" ; 142 ; 0 ; 3 ; 0
+;;; "Uue ajastu pangasüsteem - Kristjan Kangro" ; 166 ; 0 ; 2 ; 0
+;;; "Tehnopoli kasulikkus ettevõtjale - Jaak Raie" ; 33 ; 0 ; 1 ; 0
+;;; "Ettevõtlusõppe - Kristi Ploom" ; 82 ; 0 ; 1 ; 0
+;;; "Eesti Kaubandus- Tööstuskoja funktsionaalusus ettevõttele - Mait Palts" ; 44 ; 0 ; 0 ; 0
+;;; "Ettevõtlus läbi Amazoni - Viktor Villand" ; 550 ; 0 ; 5 ; 0
+;;; "Uus maksusüsteem ettevõtjale - Evelyn Liivamägi" ; 94 ; 0 ; 1 ; 0
+;;; "Digiturundus ja turunduse automatiseerimine - Anna Samarüütel ja Armin Tüll" ; 85 ; 0 ; 2 ; 0
+;;; "Energeetika ettevõte Alexela - Heiti Hääl" ; 64 ; 0 ; 0 ; 0
+;;; "Ettevõtlus läbi aegade - Toomas Sildmäe" ; 84 ; 0 ; 0 ; 0
+;;; "Küberturvalisus ettevõttes - Peeter Marvet" ; 52 ; 0 ; 0 ; 0
+;;; "JCI Ettevõtlikud noored - Anni Oja ja Henry Arnhold" ; 53 ; 0 ; 0 ; 0
+;;; "Tööstusettevõte loomine - Aadu Polli" ; 91 ; 0 ; 1 ; 0
+;;; "Innovatsiooni häkatonid e. Garage48 hackatonid - Liis Narusk ja Kai Isand" ; 69 ; 0 ; 0 ; 0
+;;; "E-taksondus - Martin Villig" ; 92 ; 0 ; 0 ; 0
+;;; "Aktsiate avalik pakkumine - Margus Pärn" ; 115 ; 0 ; 0 ; 0
+;;; "Majanduskriis ja selle mõjud - Mikk Talpsepp" ; 95 ; 0 ; 0 ; 0
+;;; "Suurettevõtte juhtimine - Aavo Kärmas" ; 102 ; 0 ; 1 ; 0
+;;; "Krüptoraha - Jaana Lukovnikova" ; 296 ; 0 ; 1 ; 0
+;;; "Koolitused ja ettevõtja areng - Roland Tokko" ; 265 ; 0 ; 4 ; 0
+;;; "EAS-i tedemised ja funktsionaalsus ettevõtjale - Alar Urke" ; 74 ; 5 ; 0 ; 0
+;;; "Puidutööstus - Atso Matsalu" ; 76 ; 0 ; 2 ; 0
+;;; "Äriinglid - Ivo Remmelg" ; 74 ; 0 ; 1 ; 0
+;;; "Ettevõtte Börsile - Kuldar Leis" ; 78 ; 9 ; 0 ; 0
+;;; "Taastuv energia ettevõtluses - Rene Tammist" ; 75 ; 7 ; 4 ; 0
+;;; "Kuidas teha edukas internetipood - Peep kuld" ; 156 ; 6 ; 1 ; 0
+;;; "Ettevõtte turundamine - Anu-Mall Naarits" ; 236 ; 8 ; 2 ; 0
+;;; "Kinnisvaramaakler kui ettevõtja - Ardo Lepp" ; 117 ; 7 ; 4 ; 0
+;;; "E-Kaubanduse Liit - Signe Kõiv" ; 214 ; 10 ; 3 ; 0
+"investeerimisraadio" ; 1442 ; 50
+;;; "Saade #158: Perega koos investeerimine" ; 1357 ; 31 ; 2 ; 0
+;;; "Saade #157: Ühisrahastuse uudiseid" ; 1703 ; 31 ; 4 ; 0
+;;; "Saade #156: LHV Noortepank ja mikroinvesteerimine" ; 1933 ; 40 ; 6 ; 1
+;;; "Saade #155: Kuulajaküsimus - kuhu panna 10K?" ; 2734 ; 58 ; 7 ; 1
+;;; "Saade #154: Eesti P2P portaalide 2017. a majandustulemused" ; 2440 ; 48 ; 4 ; 0
+;;; "Saade #153: TANKER Brewery raising capital [ENG]" ; 2014 ; 40 ; 2 ; 0
+;;; "Saade #152: Investeerimisfestivali järelkaja" ; 2170 ; 52 ; 6 ; 0
+;;; "Saade 151: AUGA group [ENG]" ; 1879 ; 42 ; 3 ; 0
+;;; "Saade #150: Külas on Funderbeam ja Madis Müür!" ; 2437 ; 72 ; 7 ; 0
+;;; "Saade #149: Jalgpall vs investeerimine" ; 2082 ; 67 ; 6 ; 0
+;;; "Saade #148: Uudised ühisrahastusest (Volta loftid ja CE)" ; 2459 ; 85 ; 5 ; 0
+;;; "Saade #147: Raha psühholoogia" ; 3090 ; 96 ; 11 ; 0
+;;; "Saade #146: Tallinna Sadama IPO" ; 2421 ; 58 ; 7 ; 0
+;;; "Saade #145: Tallinna Sadama IPO" ; 2966 ; 76 ; 12 ; 0
+;;; "Saade 144: Mintose majandustulemused 2017" ; 2298 ; 60 ; 5 ; 0
+;;; "Saade 143: Harjumused" ; 2930 ; 83 ; 13 ; 0
+;;; "Saade 142: Börsijuttu" ; 2222 ; 61 ; 8 ; 0
+;;; "Saade 141: Rahandusministeerium pakub majandusele 3% kasvu" ; 2486 ; 72 ; 5 ; 1
+;;; "Saade 140: Crowdestate'i järelturu sekeldused" ; 2359 ; 69 ; 5 ; 0
+;;; "Saade 139: Maksuamet plaanib väikefirmad nõustada palka maksma" ; 2425 ; 81 ; 13 ; 0
+;;; "Saade 138: Inbanki majandusaruanne 2017" ; 1915 ; 64 ; 4 ; 0
+;;; "Saade 137: Baltic Horizon Fundi majandustulemused 2017" ; 2117 ; 55 ; 4 ; 0
+;;; "Saade 136: Olympic Entertainment Group AS-i ülevõtmispakkumine" ; 2291 ; 74 ; 6 ; 0
+;;; "Saade 135: Efteni III kinnisvarafondi tulemused, 2017" ; 2352 ; 63 ; 7 ; 0
+;;; "Saade 134: Madara 2017. aasta majandustulemused" ; 2080 ; 55 ; 5 ; 0
+;;; "Saade 133: Warren Buffetti kiri Berkshire investoritele 2017" ; 2991 ; 94 ; 9 ; 0
+;;; "Saade 132: Kui volatiilsus naaseb turgudele" ; 2847 ; 78 ; 8 ; 0
+;;; "Saade 131: Säästlik veebruar" ; 2592 ; 76 ; 6 ; 0
+;;; "Saade 130: Investly kogub kapitali, saates Siim Maivel" ; 2577 ; 61 ; 6 ; 0
+;;; "Saade 129: Kuidas teenida ühisrahastuses kõrgemat tootlust?" ; 3058 ; 88 ; 5 ; 0
+;;; "Saade 128: ETFid ja MiFID 2" ; 2662 ; 85 ; 6 ; 1
+;;; "Saade 127: Kuulajaküsimus: Millal hakata hajutama?" ; 2630 ; 89 ; 5 ; 1
+;;; "Saade 126: 2017/2018" ; 2832 ; 95 ; 11 ; 0
+;;; "Saade 125: Tallinna Vee kohtusaaga" ; 2570 ; 100 ; 9 ; 0
+;;; "Saade 124: Bitcoiniga miljardäriks?" ; 3294 ; 112 ; 12 ; 0
+;;; "Saade 123: Külas on Olle Tischler!" ; 2439 ; 84 ; 5 ; 0
+;;; "Saade 122: Kuulajaküsimus: kui mul on 400k?" ; 2635 ; 100 ; 3 ; 0
+;;; "Saade 121: Tähtajaliste hoiuste maksustamine" ; 2261 ; 78 ; 5 ; 0
+;;; "Saade 120: Kohalike avalike pakkumiste kokkuvõte" ; 2185 ; 74 ; 2 ; 0
+;;; "Saade 119: Külas on Viljar Arakas!" ; 3244 ; 101 ; 13 ; 0
+;;; "Saade 118: Raha kaasamine nüüdsest lihtsam!" ; 2276 ; 80 ; 4 ; 0
+;;; "Saade 117: Madara Cosmetics IPO [ENG]" ; 2188 ; 70 ; 5 ; 0
+;;; "Saade 116: Vitamiinide IPOst" ; 2750 ; 76 ; 8 ; 0
+;;; "Saade 115: Kuulajaküsimused indeksfondidest" ; 3332 ; 120 ; 7 ; 0
+;;; "Saade 114: Maksuvaba tulu" ; 3446 ; 132 ; 10 ; 0
+;;; "Saade 113: Looduskatastroofid" ; 2335 ; 83 ; 7 ; 0
+;;; "Saade 112: Tagasi kooli" ; 2354 ; 87 ; 5 ; 0
+;;; "Saade 111: Uudised" ; 2337 ; 74 ; 5 ; 0
+;;; "Saade 110: LEI kood" ; 2426 ; 89 ; 7 ; 0
+;;; "Saade 109: Vanemahüvitis" ; 2630 ; 89 ; 4 ; 0
+"Investeerimisklubi" ; 494 ; 36
+;;; "Minu õppetunnid Bitcoini investeerimisel - Taavi Pertman" ; 539 ; 0 ; 2 ; 0
+;;; "Millised on võitvad ühisrahastuse strateegiad? - Kristi, Kristjan ja Taavi" ; 554 ; 0 ; 1 ; 0
+;;; "Külalispodcast: Äripäeva Raadio - Tõnis-Denis Merkuljevi investeerimise kolm põhiprintsiipi" ; 587 ; 0 ; 2 ; 0
+;;; "Külalispodcast: Äripäeva Raadio - Investor Toomase tund Stig Broderseniga" ; 389 ; 0 ; 1 ; 0
+;;; "Külalispodcast: Hakkame Tegutsema - Lugu 37 - Marko Oolo" ; 782 ; 0 ; 3 ; 0
+;;; "Külalispodcast: LHV Podcast - Investeerimisklubi korraldab InvesteerimisFestivali" ; 378 ; 0 ; 1 ; 0
+;;; "Väärtusinvesteerimise paneel - Kuidas olla intelligentne Investor?" ; 580 ; 0 ; 4 ; 0
+;;; "Külalispodcast: 7Blaze - Kogukondlik turundamine ja investeerimine - Osa 2" ; 550 ; 0 ; 1 ; 0
+;;; "Külalispodcast: 7Blaze - Kogukondlik turundamine ja investeerimine - Osa 1" ; 677 ; 0 ; 4 ; 0
+;;; "Kinnisvara ühisrahastusportaal Argeld - Jaak Raid" ; 461 ; 0 ; 0 ; 0
+;;; "Kinnisvara ühisrahastusportaal BitofProperty - Taavi Pettai" ; 389 ; 0 ; 0 ; 0
+;;; "Tõeline Vabadus - Roland Tokko" ; 1170 ; 0 ; 6 ; 0
+;;; "Müüdimurdja: Kas investeerimine on ainult meeste ala? - Karin, Krista Ja Kärt" ; 536 ; 0 ; 1 ; 0
+;;; "Hea Investor - Kas kaasasündinud anne või õpitud oskus  - Kaido Kubri" ; 1162 ; 0 ; 4 ; 0
+;;; "Müüdimurdja: Kauplemine versus investeerimine? - Kristofer Vähi" ; 949 ; 0 ; 0 ; 0
+;;; "Kas Eestil Võiks Olla Oma Krüptoraha? - Kaspar Korjus" ; 535 ; 0 ; 1 ; 0
+;;; "BitOfProperty üürikinnisvara ühisinvesteerimise platvorm - Karl Vään" ; 582 ; 7 ; 0 ; 0
+;;; "Krüptoraha - Kas Investeering Või Spekulatsioon? - Laur Läänemets" ; 453 ; 0 ; 1 ; 0
+;;; "Mis on Krüptorahad ja ICO'd? - Liina Laas-Billson" ; 553 ; 0 ; 0 ; 0
+;;; "Paneel: Kuidas Saada Rikkaks? koos Peeter Pärteli ja Jaak Roosaarega" ; 1096 ; 0 ; 6 ; 0
+;;; "Raamatu "Miljonäri Kiirtee" Esitlus Koos Peeter Pärteliga" ; 900 ; 0 ; 6 ; 0
+;;; "Kuidas Ehitada Investeerimisportfelli Lapsele? - Kärt Ja Kristjan Liivamägi" ; 1218 ; 0 ; 9 ; 0
+;;; "Kuidas Lüüa Turgu 15 Aastat Järjest? - Investor Toomas" ; 526 ; 0 ; 3 ; 0
+;;; "Kus Peitub Kinnisvara Tegelik Tootuls? - Peeter, Kalle Ja Karin" ; 749 ; 0 ; 6 ; 0
+;;; "Kuidas Ma Oravarattast Välja Sain? - Peeter Pärtel" ; 796 ; 0 ; 1 ; 0
+;;; "Startupidesse Investeerimise Head Ja Vead! - Madis Müür" ; 411 ; 0 ; 3 ; 0
+;;; "Paneel: Kuidas luua väärtust finantsteemalise raadiosaatega? - Tauri, Taavi ja Rivo" ; 1166 ; 0 ; 5 ; 0
+;;; "Kuidas mõjutab psühholoogia ühisrahastusse investeerimise strateegiat? - Tauri Alas" ; 1695 ; 0 ; 9 ; 0
+;;; "Võta vastutus, võida tulevik! - Mikk Talpsepp - InvesteerimisFestival2017" ; 464 ; 0 ; 4 ; 0
+;;; "Kuidas ma majanduskriisist läbi tulin? - Tarvo Vaarmets - InvesteerimisFestival2017" ; 629 ; 0 ; 3 ; 0
+;;; "Sissetuleku kasvatamise jõud - Madis Müür - InvesteerimisFestival2017" ; 612 ; 0 ; 3 ; 0
+;;; "Muuda ennast, muutub maailm! - Paavo Siimann - InvesteerimisFestival2017" ; 616 ; 8 ; 6 ; 0
+;;; "Kuidas elada nii, et homme oleks kergem? - Ergo Mõttus - InvesteerimisFestival2017" ; 622 ; 6 ; 5 ; 0
+;;; "Mündi kaks poolt: "edu ja ebaõnn" - Taavi Pertman -  InvesteerimisFestival2017" ; 347 ; 6 ; 2 ; 0
+;;; "Kuidas luua strateegia ühisrahastusse investeerimisel? - Kristi Saare & Tauri Alas" ; 957 ; 13 ; 5 ; 0
+;;; "Vestlusõhtu ettevõtja Joel Ostratiga - Kokast ettevõtjaks" ; 788 ; 0 ; 10 ; 0
+"LHV" ; 251 ; 20
+;;; "Sander Pikkel ja Liis Lepik mikroinvesteerimisest - LHV Podcast 20 2018" ; 514 ; 0 ; 1 ; 0
+;;; "Liis Lepik ja Rain Lõhmus LHV Noortepangast - LHV Podcast 19 2018" ; 840 ; 0 ; 3 ; 0
+;;; "Rain Lõhmus - LHV Podcast 18 2018" ; 1388 ; 0 ; 17 ; 0
+;;; "Aivar Pohlak jalgpallist - LHV Podcast 17 2018" ; 987 ; 0 ; 2 ; 0
+;;; "Rain Gontmacher: kinnisvaraturu ülevaade - LHV Podcast 16 2018" ; 967 ; 0 ; 3 ; 0
+;;; "Kadri Kiisel ja Marko Kiisa laenamisest - LHV Podcast 15 2018" ; 982 ; 0 ; 0 ; 0
+;;; "Investeerimisklubi korraldab InvesteerimisFestivali - LHV Podcast 14 2018" ; 649 ; 0 ; 3 ; 0
+;;; "Tallinna Sadama IPO - LHV Podcast 13 2018" ; 1039 ; 0 ; 3 ; 0
+;;; "Charlie Viikberg räägib energiakauplemisest - LHV Podcast 12 2018" ; 556 ; 0 ; 4 ; 0
+;;; "Intervjuu Riho Terrasega - LHV Podcast 11 2018" ; 413 ; 0 ; 1 ; 0
+;;; "Katre Kõvask piimatööstusest ja tippjuhi tööst - LHV Podcast 10 2018" ; 560 ; 0 ; 0 ; 0
+;;; "Sander & Sander: investeerimisest Balti turgudel - LHV Podcast 09 2018" ; 1405 ; 0 ; 4 ; 0
+;;; "Andreas Laane räägib kütuseturust - LHV Podcast 08 2018" ; 628 ; 0 ; 0 ; 0
+;;; "Vaatame Joel Kukemelkiga II samba indeksfondide kapoti alla - LHV Podcast 07 2018" ; 637 ; 0 ; 3 ; 0
+;;; "Uuest, kuni 100% Eestisse investeerivast pensionifondist - LHV Podcast 06 2018" ; 637 ; 0 ; 1 ; 0
+;;; "Enn Pareliga õllekultuurist ja ettevõtlusest - LHV Podcast 05 2018" ; 921 ; 0 ; 5 ; 0
+;;; "Marat Kasparov räägib kauplemisest - LHV Podcast 04 2018" ; 1253 ; 0 ; 12 ; 0
+;;; "Lauri Meidla räägib kauplemisest - LHV Podcast 03 2018" ; 1916 ; 0 ; 7 ; 0
+;;; "Ettevõtluskeskkonnast Ülar Maapaluga - LHV Podcast 02 2018" ; 1144 ; 0 ; 0 ; 0
+;;; "Päevakauplemisest Marek Kalliniga - LHV Podcast 01 2018" ; 1622 ; 0 ; 13 ; 0
+"Startup Estonia" ; 19 ; 2
+;;; "Startup in Estonia: #2 How it all got started" ; 82 ; 0 ; 0 ; 0
+;;; "Startup in Estonia:  #1 Starting up in Estonia" ; 423 ; 12 ; 12 ; 0
+"7blazesocial" ; 284 ; 41
+;;; "[39] Kuidas Turundada Kaugelt? - Sri Lankalt - Krõõt Laesson" ; 422 ; 0 ; 0 ; 0
+;;; "[#38] Kuidas müüa tooteid läbi sotsiaalmeedia? - Mihkel Männik" ; 590 ; 0 ; 0 ; 0
+;;; "[#37/2] Kogukondlik turundamine ja investeerimine - Kristi Saare ja Marko Oolo" ; 525 ; 0 ; 3 ; 0
+;;; "[#37/1] Kogukondlik turundamine ja investeerimine - Kristi Saare ja Marko Oolo" ; 460 ; 0 ; 1 ; 0
+;;; "[#36/2] Automatica-personatica – Outfunnel ja Smaily" ; 449 ; 3 ; 1 ; 0
+;;; "[#36/1] Automatica-personatica – Outfunnel ja Smaily" ; 600 ; 6 ; 2 ; 3
+;;; "[#35] Elukestev õpe – 7Blaze ja Socialfly" ; 786 ; 3 ; 2 ; 0
+;;; "[#34] Tervis ennekõike – Apotheka ja Eesti Haigekassa" ; 591 ; 0 ; 4 ; 0
+;;; "[#33] Kuidas saada vabakutseliseks – Hanna Odras ja Karola Karlson" ; 752 ; 13 ; 2 ; 0
+;;; "[#32] Kuidas müüa elevanti? – Katana MRP ja Weekdone" ; 780 ; 12 ; 2 ; 0
+;;; "[#31] Eile klubis – Mihkel Sillaots ja Tõnn Kuuli" ; 730 ; 9 ; 2 ; 0
+;;; "[#30] Podcastimise ilu ja valu – Hakkame tegutsema ja Mõtteaine" ; 638 ; 10 ; 5 ; 0
+;;; "[#29] Kuidas vallutada maailma? – Groove ja Planet OS" ; 743 ; 7 ; 6 ; 0
+;;; "[#28] Avalikud suhted ja sotsiaalmeedia – Rahandusministeerium ja Optimist Public" ; 632 ; 6 ; 2 ; 0
+;;; "[#27] Numbrid ja tulemused – Äripäev ja Goal" ; 515 ; 6 ; 3 ; 0
+;;; "[#26] Uue aja tegijad – Creat.ly ja Fitloora" ; 735 ; 6 ; 3 ; 4
+;;; "[#25] How to sell a country? – EstonianWorld and VisitEstonia" ; 359 ; 6 ; 1 ; 0
+;;; "[#24] What it's like, outside? – Kerli Tarum(UK) and Tommy Tillander(FIN)" ; 362 ; 4 ; 1 ; 2
+;;; "[#23] Visuaalne Sotsiaalmeedia - Alina Birjuki ja Hans Markus Antson" ; 628 ; 8 ; 3 ; 0
+;;; "[#22] Äri kasvatamise kunst - Tarvo Tobbi ja Remy Konimois" ; 720 ; 12 ; 2 ; 0
+;;; "[#21] The only key to win – Joao Rei from Idea Group and Siim Lepisk from SEB" ; 496 ; 7 ; 2 ; 0
+;;; "[#20] Creating content people actually need - Adam Rang and William Ross" ; 647 ; 10 ; 5 ; 0
+;;; "[#19] 2016. aasta sotsiaalmeedias – Cannes Lions ja #TheCannesDress" ; 580 ; 13 ; 3 ; 0
+;;; "[#18] Elu kui mäng – Sten Kohlmann (Level1) ja Mart Virkus (Toggl)" ; 491 ; 14 ; 1 ; 3
+;;; "[#17] Mis imeloom on bränding? Remy Konimois (DDR) ja Rasmus Rask (La Muu)" ; 722 ; 13 ; 3 ; 0
+;;; "[#16] Sotsiaalmeedia agentuuride hingeelust – Marko Saue (Goal) ja Rauno Kutti (Vurr)" ; 792 ; 18 ; 4 ; 0
+;;; "[#15] Kuidas peab suurettevõtte sotsiaalmeedias käituma? – Elisa ja Sportland" ; 566 ; 18 ; 2 ; 0
+;;; "[#14] "E-post on surnud, elagu E-post" - Meelis Ojasild (Pipedrive) ja Mikk Orglaan(Mailbow)" ; 684 ; 17 ; 5 ; 0
+;;; "[#13] Muusikud Sotsiaalmeedias - Andres Kõpper (NOËP) ja Joosep Järvesaar (Cartoon)" ; 883 ; 32 ; 4 ; 0
+;;; "[#12] Edukas ühisrahastus - Ott Ilves ja Karl Annus" ; 525 ; 23 ; 3 ; 0
+;;; "[#11] Ajakirjandus ja sotsiaalmeedia - Jakob Rosin (Geenius.ee) ja Kerli Kivistu (Postimees)" ; 517 ; 22 ; 4 ; 0
+;;; "[#10] Turundus Instagramis - Ailar Väärtmaa (Viks) ja Teet Torim (Boost Yourself)" ; 1030 ; 27 ; 6 ; 0
+;;; "[#9] "Päevad, mis ajasid segadusse" ja Metafoor turunduses - Kaspar Ainelo ja Kaarel Kõre" ; 483 ; 16 ; 2 ; 0
+;;; "[#8] - Mis toimub LinkedIn'is? Külas Tõnis Mutt" ; 661 ; 17 ; 3 ; 1
+;;; "[#7] Youtubberid ehk Mõjutajad sotsiaalmeedias? külas Kairi Killing ja Martti Hallik" ; 996 ; 24 ; 4 ; 0
+;;; "[#6] Youtube, striimimine ja filmikunst - HDTanel ja Einar Kuusk" ; 1035 ; 15 ; 5 ; 1
+;;; "[#5] Töötaja roll ja HR sotsiaalmeedias - Swedbank Eestist Kristel Leif ja Ivar Raav" ; 594 ; 25 ; 0 ; 0
+;;; "[#4] Strateegiline sotsiaalmeedia - Vestlemas SA Archimedes ja Viks" ; 534 ; 20 ; 0 ; 0
+;;; "[#3] Mis loom on sisuturundus? - Merilin Taimre(Paljas Porgand) ja Elen Veenpere (Teleport)" ; 732 ; 19 ; 0 ; 0
+;;; "[#2] Disain, kvaliteet ja sotsiaalmeedia - Tajo Oja ja Martin Voltri Fraktalist" ; 975 ; 18 ; 1 ; 0
+;;; "7Blaze Podcast #1 - Sotsiaalmeedia põhitõed. Jaan Kruusma ja Ailar Väärtmaa" ; 1375 ; 30 ; 6 ; 0
+"Külapood" ; 80 ; 50
+;;; "#87 - Tomativaras" ; 231 ; 0 ; 2 ; 1
+;;; "#86 - Hüppa!" ; 325 ; 0 ; 3 ; 0
+;;; "#85 - Külm Fakt" ; 783 ; 3 ; 3 ; 0
+;;; "#84 - Jääkarude Päästja" ; 338 ; 0 ; 1 ; 0
+;;; "#83 - Reigode Ülestõus" ; 316 ; 0 ; 1 ; 0
+;;; "#81 - Pohmellid ja Pühakud" ; 687 ; 0 ; 1 ; 0
+;;; "#82 - Jaapani Deemon" ; 373 ; 0 ; 1 ; 0
+;;; "#80 - Palliloomad" ; 320 ; 0 ; 1 ; 0
+;;; "#79 - Pallipoisid" ; 303 ; 0 ; 1 ; 0
+;;; "#78 - Ellujääjad" ; 346 ; 0 ; 2 ; 0
+;;; "#77 - Koolijütsid" ; 357 ; 0 ; 1 ; 0
+;;; "#75 - Eurotrall" ; 409 ; 0 ; 3 ; 0
+;;; "#74 - Seadusesulo" ; 387 ; 0 ; 2 ; 0
+;;; "#73 - Meditsiiniminutid" ; 360 ; 0 ; 3 ; 0
+;;; "#72 - Tartujutt" ; 440 ; 0 ; 2 ; 0
+;;; "#71 - Kui On Meri Hülgehall" ; 486 ; 0 ; 2 ; 0
+;;; "#70 - Siilid Ja Muud Loomad" ; 923 ; 0 ; 4 ; 0
+;;; "#68 - Nostalgitsejad" ; 345 ; 0 ; 2 ; 0
+;;; "#67 - Netiseiklus" ; 299 ; 0 ; 2 ; 0
+;;; "#66 - Kapten Godoy" ; 252 ; 1 ; 3 ; 0
+;;; "#65 - Segapudru" ; 216 ; 1 ; 1 ; 0
+;;; "#64 - Aastavahetuse Amelused" ; 395 ; 1 ; 3 ; 0
+;;; "#63 - Ja See Pole Ime" ; 548 ; 3 ; 4 ; 0
+;;; "#62 - Unevägi" ; 201 ; 1 ; 2 ; 0
+;;; "#61 - Unelonks" ; 173 ; 1 ; 1 ; 0
+;;; "#60 - Karuhirm" ; 153 ; 0 ; 1 ; 0
+;;; "#59 - Sõjakaru" ; 170 ; 0 ; 1 ; 0
+;;; "#58 - Hullurada" ; 216 ; 0 ; 1 ; 0
+;;; "#53 - Karmid Ajad" ; 240 ; 0 ; 2 ; 0
+;;; "#52 - Ilusalt Vaprad" ; 261 ; 0 ; 1 ; 0
+;;; "#51 - Kogemustund" ; 232 ; 0 ; 1 ; 0
+;;; "#50 - Täiega Tartust" ; 204 ; 0 ; 2 ; 0
+;;; "#49 - Ahvist Inimeseks" ; 170 ; 0 ; 1 ; 0
+;;; "#48 - Tapiirimetsad" ; 147 ; 0 ; 1 ; 0
+;;; "#47 - Tervislik Ananassimees" ; 159 ; 0 ; 2 ; 0
+;;; "#46 - Atlase Abitund" ; 161 ; 0 ; 1 ; 0
+;;; "#45 - Jätkusuutlik Geograafia" ; 160 ; 1 ; 1 ; 0
+;;; "#44 - Geograafiast Geograafiani" ; 163 ; 0 ; 1 ; 0
+;;; "#43 - Joogiselt Söögist" ; 173 ; 0 ; 2 ; 0
+;;; "#42 - Pähklike Metsas" ; 160 ; 0 ; 1 ; 0
+;;; "#41 - Kotike Keelepeksu" ; 150 ; 0 ; 1 ; 0
+;;; "#40 - Elu Nagu Jooksulint" ; 155 ; 0 ; 1 ; 0
+;;; "#39 - Süütud Jutud" ; 218 ; 0 ; 2 ; 0
+;;; "#38 - Ainult Ejakulaat" ; 200 ; 0 ; 1 ; 0
+;;; "#36 - Õnnelonks" ; 186 ; 0 ; 1 ; 0
+;;; "#35 - Violetses Aurus" ; 184 ; 0 ; 1 ; 0
+;;; "#34 - Usuõpetus" ; 212 ; 0 ; 1 ; 0
+;;; "#33 - Külapoe Toidulett" ; 187 ; 0 ; 1 ; 0
+;;; "#32 - Searahu" ; 177 ; 0 ; 1 ; 0
+;;; "#31 - Karl of Varmcraft" ; 186 ; 0 ; 1 ; 0
+"Täiesti P*tsis" ; 57 ; 24
+;;; "Episood 24: Karl Naarits - Nutitelefonid, NATO pakk, Elon Musk" ; 65 ; 0 ; 2 ; 0
+;;; "Episood 23: Meelis Erm ja Mikk Eeskivi - Skate life, King of Tallinn, Perseharjad" ; 103 ; 0 ; 2 ; 0
+;;; "Episood 22: Nibud, Andre kolib Tallinna, tulevikuplaanid" ; 46 ; 0 ; 0 ; 0
+;;; "Episood 21: Karl Kask - Tantsukunst II MS ajal, Sõnavabadus, Videmängud" ; 108 ; 0 ; 2 ; 0
+;;; "Episood 20: Einar Kuusk - Flat Earth Theory, Filmindus, Suhted" ; 598 ; 0 ; 16 ; 5
+;;; "Episood 19: Alina Birjuk - koostöö  brändidega, Instagram, autentsus sotsiaalmeedias" ; 220 ; 0 ; 5 ; 0
+;;; "Episood 18: Mariell Vikkisk - Elu Šveitsi suusakuurortis, fotograafia, sotsiaalmeedia turundus" ; 110 ; 0 ; 1 ; 0
+;;; "Episood 17: DJ Brdie a.k.a. Tuvens a.k.a. Aleksander Lind" ; 121 ; 0 ; 1 ; 0
+;;; "Episood 16: Donald Trump, Kasiinod, Fortnite" ; 86 ; 0 ; 2 ; 0
+;;; "Episood 15: KSMNVT a.k.a. Johannes Veike" ; 84 ; 0 ; 3 ; 0
+;;; "Episood 14: Sotsiaalmeedia" ; 54 ; 0 ; 1 ; 0
+;;; "Episood 13: Halb tiineka Tumblr'i küsimustik" ; 74 ; 0 ; 0 ; 0
+;;; "Episood 12: Söögid, Filmid ja palju sitta" ; 65 ; 0 ; 0 ; 0
+;;; "Episood 11: Hans-Hendrik Mikk - Lapsepõlve joomajutud, ettevõtlus ja artistiks olemine" ; 73 ; 0 ; 1 ; 0
+;;; "Episood 10: Klienditeenindus, Merch, Ready Player One" ; 78 ; 0 ; 1 ; 0
+;;; "Episood 9: Ära faking võta laenu!" ; 98 ; 0 ; 1 ; 0
+;;; "Episood 8: Ocean's 8, twenty øne piløts ja Fanta" ; 96 ; 0 ; 1 ; 0
+;;; "Episood 7: Karl Kask - Aasia kultuurid, Tantsukunst ja Adolf Hitler" ; 152 ; 0 ; 3 ; 0
+;;; "Episood 6: Fight Club, Yu-Gi-Oh, Trussikud" ; 86 ; 0 ; 2 ; 1
+;;; "Episood 5: Forwardspace - Oliver Sild & Agnes Talalaev" ; 91 ; 0 ; 2 ; 0
+;;; "Episood 4: XXXTentacion, E3 ja videomängud" ; 122 ; 0 ; 3 ; 0
+;;; "Episood 3: Memed, Köögiviljad ja Kiusamine" ; 125 ; 0 ; 3 ; 0
+;;; "Episood 2: Hugo Martin "Whogaux" Maasikas" ; 185 ; 0 ; 7 ; 0
+;;; "Episood 1: Transad, Voodi.ee ja Apple" ; 290 ; 0 ; 4 ; 1
+"Ausad Mehed" ; 55 ; 19
+;;; "Ausad Mehed - Järjepidevus #19" ; 40 ; 0 ; 0 ; 0
+;;; "Ausad Mehed - Külas Naisenergia, Matchmaking Kätlin #18" ; 250 ; 2 ; 4 ; 1
+;;; "Ausad Mehed - Mõtteid sotsiaalmeediast #17" ; 96 ; 0 ; 2 ; 0
+;;; "Ausad Mehed - Sibula koore analoogia #16" ; 106 ; 0 ; 2 ; 0
+;;; "Ausad Mehed - Jutuajamine mentoriga "Ole faking julge" #15" ; 308 ; 1 ; 4 ; 0
+;;; "Ausad Mehed - Pisut naistest #14" ; 127 ; 1 ; 5 ; 0
+;;; "Ausad Mehed - Kuidas leida enda teekonda ja kuidas sellel püsida #13" ; 162 ; 1 ; 4 ; 0
+;;; "Ausad Mehed - EGO #12" ; 92 ; 1 ; 3 ; 0
+;;; "Ausad Mehed - Tänulikkus ja kuidas sellest kasu lõigata #11" ; 128 ; 3 ; 3 ; 1
+;;; "Emotsionaalsed Mehed - Enesesabotaaž, EGO, tegutsemine ja eneseteadlikkus #10" ; 165 ; 0 ; 8 ; 0
+;;; "Emotsionaalsed Mehed - Elulised madalseisud ja kuidas nendega toime tulla #09" ; 180 ; 4 ; 5 ; 1
+;;; "Emotsionaalsed Mehed - Mõistmaks, Kes Ma Olen #08" ; 208 ; 4 ; 4 ; 0
+;;; "Emotsionaalsed Mehed - Veidi Martinist #07" ; 148 ; 3 ; 2 ; 1
+;;; "Emotsionaalsed Mehed - Reisimine, Elu Austraalias #06" ; 164 ; 3 ; 3 ; 0
+;;; "Emotsionaalsed Mehed - Hirm #05" ; 186 ; 2 ; 3 ; 0
+;;; "Emotsionaalsed Mehed - Suhted #04 Osa 2/2" ; 328 ; 5 ; 4 ; 0
+;;; "Emotsionaalsed Mehed - Suhted #03 Osa 1/2" ; 289 ; 0 ; 12 ; 0
+;;; "Emotsionaalsed Mehed - Alaväärsuskompleksid #02" ; 272 ; 0 ; 5 ; 0
+;;; "Emotsionaalsed Mehed - Avapauk #01" ; 343 ; 0 ; 6 ; 0
+"Edmund Burke'i Selts" ; 23 ; 17
+;;; "Tähenduse teejuhid XVII: Uroborose tagasitulek" ; 87 ; 0 ; 0 ; 0
+;;; "Tähenduse teejuhid VXI: Vannutatud neitsi" ; 81 ; 0 ; 0 ; 0
+;;; "Tähenduse teejuhid XV: Inimese lootus" ; 70 ; 0 ; 1 ; 0
+;;; "Tähenduse teejuhid XIV: Must missa" ; 64 ; 0 ; 0 ; 0
+;;; "Tähenduse teejuhid XIII: Muinaslugu muusikas" ; 49 ; 0 ; 1 ; 0
+;;; "Tähenduse teejuhid XII: Ratio piirid" ; 75 ; 0 ; 1 ; 0
+;;; "Tähenduse teejuhid XI: Ood elaanile" ; 96 ; 0 ; 3 ; 0
+;;; "Tähenduse teejuhid X: Kaks kallast" ; 48 ; 0 ; 0 ; 0
+;;; "Tähenduse teejuhid VII: Dialektika lõpp-peatus" ; 49 ; 0 ; 0 ; 0
+;;; "Tähenduse teejuhid IX: Ainukesed rahvad" ; 54 ; 0 ; 1 ; 0
+;;; "Tähenduse teejuhid VIII: Juhuslikud suurused" ; 41 ; 0 ; 0 ; 0
+;;; "Tähenduse teejuhid VI: Poliitbüroo jälgedel" ; 51 ; 0 ; 1 ; 0
+;;; "Tähenduse teejuhid V: Mitmekesisuse mitu mõõdet" ; 50 ; 0 ; 0 ; 0
+;;; "Tähenduse teejuhid IV: Muusika mõistatus" ; 63 ; 0 ; 1 ; 0
+;;; "Tähenduse teejuhid III: Valu mõte" ; 61 ; 0 ; 1 ; 0
+;;; "Tähenduse teejuhid II: Kolm õpilast" ; 62 ; 0 ; 0 ; 0
+;;; "Tähenduse teejuhid I: Füüsikud ja margikogujad" ; 119 ; 0 ; 2 ; 0
+"Podcast: Elu Looming" ; 31 ; 6
+;;; "#05 Martin Villig (Taxify) - Teeme ära!" ; 126 ; 22 ; 2 ; 0
+;;; "#04 Kristjan Otsmann: Ole ise" ; 145 ; 16 ; 1 ; 0
+;;; "#03 Martin Noorkõiv: Tahad muuta maailma? Päriselt." ; 151 ; 13 ; 3 ; 0
+;;; "#02 Tõnu Esko: Geneetiline saatus või võimalus?" ; 89 ; 10 ; 0 ; 0
+;;; "#01: Tõnu Vahtra - Elu väljaspool mugavustsooni" ; 345 ; 23 ; 3 ; 0
+;;; "Mis on Elu Looming Podcast? - Harald Lepisk" ; 121 ; 0 ; 1 ; 0
+"0:1 Podcast" ; 21 ; 3
+;;; "0:1 Podcast | Louis Zezeran [#4]" ; 107 ; 0 ; 0 ; 0
+;;; "0:1 Podcast | Erna Husko [#3]" ; 105 ; 0 ; 0 ; 0
+;;; "0:1 Podcast | Erik Orgu [#2]" ; 139 ; 0 ; 5 ; 0
+"level1ee" ; 176 ; 50
+;;; "Teine Tase 179 × Milline võiks olla EKRE videomäng?" ; 159 ; 8 ; 0 ; 1
+;;; "Doki Doki Luuserite Klubi, osa 11: Luuserid nühivad taaskord koolipinki" ; 64 ; 4 ; 1 ; 0
+;;; "Teine Tase 178 × Oo kallis, ole minu ämblikmees" ; 187 ; 7 ; 2 ; 1
+;;; "Teine Tase 177 × Tulirelvad on okei, videomängud mitte?" ; 243 ; 11 ; 0 ; 7
+;;; "Paljad Higised Mehed 7 – Brock Lesnar? Rohkem nagu Blokk Lesnar!" ; 134 ; 0 ; 0 ; 0
+;;; "Teine Tase 176 × gamescom 2018 muljed otse Saksamaalt!" ; 187 ; 6 ; 4 ; 0
+;;; "Teine Tase 175 × Millised saavad olema PlayStation 5 esimesed mängud?" ; 385 ; 9 ; 1 ; 1
+;;; "Doki Doki Luuserite Klubi, osa 10: Margus Saldre Luuser-villak" ; 82 ; 4 ; 2 ; 0
+;;; "Teine Tase 174 × Sajandi valik: videomängud või seks?" ; 259 ; 9 ; 0 ; 1
+;;; "Teine Tase 173 × Genitaalmaagia" ; 189 ; 7 ; 0 ; 0
+;;; "Paljad Higised Mehed 6 – Bobby Lashley: maailma kõige higisem mees?" ; 71 ; 0 ; 0 ; 0
+;;; "Teine Tase 172 × Selle episoodi vanusepiirang on 18+" ; 223 ; 9 ; 0 ; 0
+;;; "Doki Doki Luuserite Klubi, osa 9: Animesarjad, mis kõlbavad vaid prügikasti viskamiseks!" ; 85 ; 4 ; 1 ; 0
+;;; "Teine Tase 171 × Just need on 2018. aasta seni halvimad mängud!" ; 231 ; 12 ; 2 ; 2
+;;; "Teine Tase 170 × Kogu tõde Fortnite'i kohta! (feat. TOODZ)" ; 229 ; 8 ; 0 ; 4
+;;; "Teine Tase 169 × Mis on „blackface“ ning miks Batman sellega võitlema peaks?" ; 239 ; 15 ; 2 ; 0
+;;; "Doki Doki Luuserite Klubi, osa 8: Hilinenud E3 muljed idamaises kastmes" ; 72 ; 5 ; 1 ; 0
+;;; "Paljad Higised Mehed 5 – Kes jääb peale: staažikas maadleja või üks väike koerake?" ; 69 ; 2 ; 0 ; 0
+;;; "Teine Tase 168 × Jalgpall > Seks > Videomängud?" ; 194 ; 9 ; 3 ; 3
+;;; "Teine Tase 167 × Kas videomängud on vaimuhaiguse tunnusmärk?" ; 245 ; 14 ; 1 ; 3
+;;; "Doki Doki Luuserite Klubi, osa 7: Igor Manga ja tema tšakra-jutsu" ; 113 ; 7 ; 1 ; 0
+;;; "Teine Tase 166 × Megasuur E3 2018 kokkuvõte!" ; 239 ; 13 ; 2 ; 3
+;;; "Teine Tase 165 × Mida naised tegelikult tahavad?" ; 351 ; 17 ; 2 ; 2
+;;; "Doki Doki Luuserite Klubi, osa 6: Lauri traumeeriv kogemus zombi-helikopteriga" ; 102 ; 5 ; 4 ; 0
+;;; "Teine Tase 164 × TUNNI VÕRRA KADUNUD MATERJALI!" ; 187 ; 15 ; 1 ; 1
+;;; "Teine Tase 163 × Türanni pihtimus: „Vahetasin usku ja panin lapsed tööle!“" ; 254 ; 14 ; 2 ; 2
+;;; "Paljad Higised Mehed 4 – Aasta halvim maadlusüritus on selgunud?" ; 202 ; 1 ; 0 ; 0
+;;; "Teine Tase 162 × Põhjused, miks Outlast 2 oli ääretult halb!" ; 209 ; 18 ; 4 ; 0
+;;; "Doki Doki Luuserite Klubi, osa 5: See kohustuslik suvine rannaepisood (aga toas)" ; 96 ; 7 ; 2 ; 0
+;;; "Teine Tase 161 × Madison Ivy, kirjuta meile, palun!" ; 732 ; 18 ; 5 ; 2
+;;; "Teine Tase 160 × Gillian Andersoni fänniklubi" ; 261 ; 15 ; 2 ; 1
+;;; "Doki Doki Luuserite Klubi, osa 4: Visitor from the Land of the Rising Sun" ; 141 ; 7 ; 4 ; 0
+;;; "Teine Tase 159 × Kas robotite vastu saab rassistlik olla?" ; 209 ; 19 ; 4 ; 0
+;;; "Teine Tase 158 × Krüptovaluuta muutus lõpuks ometi erutavaks!" ; 307 ; 16 ; 2 ; 2
+;;; "Doki Doki Luuserite Klubi, osa 3: Koristaja kapist otse teie kõrvadesse!" ; 104 ; 5 ; 2 ; 0
+;;; "Paljad Higised Mehed 3 – WWE Wrestlemania 2018" ; 103 ; 5 ; 0 ; 0
+;;; "Teine Tase 157 × Kratose kannatused" ; 165 ; 16 ; 1 ; 0
+;;; "Teine Tase 156 × Ainult täiskasvanutele!" ; 376 ; 15 ; 2 ; 3
+;;; "Doki Doki Luuserite Klubi, osa 2: Need neetud lohikäärmepallot!" ; 167 ; 9 ; 4 ; 0
+;;; "Teine Tase 155 × Kas me oleme läinud Donald Trumpi kiusamisega liiga kaugele?" ; 321 ; 13 ; 4 ; 1
+;;; "Teine Tase 154 × Fortnite vallutab maailma... ja pornoportaalid!" ; 593 ; 24 ; 4 ; 0
+;;; "Doki Doki Luuserite Klubi, osa 1: Norbertile VIST meeldib Naruto?" ; 205 ; 12 ; 3 ; 0
+;;; "Paljad Higised Mehed 2 – WWE Fastlane 2018" ; 209 ; 5 ; 0 ; 0
+;;; "Teine Tase 153 × Disko on surnud?" ; 242 ; 15 ; 1 ; 0
+;;; "Teine Tase 152 × Kogu tõde Playnupp 2018 kohta!" ; 329 ; 18 ; 2 ; 0
+;;; "Paljad Higised Mehed 1 – WWE Elimination Chamber 2018" ; 223 ; 8 ; 0 ; 0
+;;; "Teine Tase 151 × Donald on kuulnud jutte!" ; 363 ; 17 ; 1 ; 0
+;;; "Teine Tase 150 × Vahi, mis lõustad!" ; 274 ; 13 ; 2 ; 1
+;;; "Teine Tase 149 × Mis värk nende YouTuberitega ikka on?" ; 349 ; 16 ; 1 ; 1
+;;; "Teine Tase 148 × Ümar auk lameda maa teoorias!" ; 385 ; 14 ; 2 ; 3
+"Vaba mikrofon" ; 320 ; 50
+;;; "Episood 061: Mis on sinu suurim miinus?" ; 1084 ; 7 ; 1 ; 0
+;;; "Episood 060: Peaaegu nagu "Popkulturistid", aga mitte päris" ; 899 ; 6 ; 2 ; 1
+;;; "Episood 059: Tähelepanu, toimub audiovalve" ; 869 ; 6 ; 2 ; 0
+;;; "Episood 058: Hüvasti Facebook" ; 1002 ; 9 ; 3 ; 0
+;;; "Episood 057: Miks te jagate sotsiaalmeedias enda kohta liiga palju infot?" ; 973 ; 9 ; 2 ; 0
+;;; "Episood 056: Sõnumisaatmise etikett" ; 823 ; 9 ; 3 ; 0
+;;; "Episood 055: Hädas Taxify" ; 878 ; 9 ; 3 ; 0
+;;; "Episood 054: Midagi uut" ; 998 ; 4 ; 1 ; 0
+;;; "Blooperid 2017" ; 643 ; 5 ; 0 ; 0
+;;; "Episood 053: Viimane" ; 939 ; 6 ; 1 ; 0
+;;; "Episood 052: Lipulaevade võidukäik" ; 847 ; 10 ; 1 ; 0
+;;; "Episood 051: Neli põhjust iPhone X ostmiseks" ; 746 ; 10 ; 1 ; 0
+;;; "Episood 050: ID-kaardist automüügini" ; 660 ; 9 ; 1 ; 0
+;;; "Episood 049: Enesereklaami tagasilöök" ; 673 ; 8 ; 1 ; 0
+;;; "Episood 048: Masinõpe, algoritmid ja tehisintellekt" ; 737 ; 8 ; 3 ; 0
+;;; "Episood 047: Selgeltnägijate hääleproov" ; 711 ; 8 ; 1 ; 0
+;;; "Episood 046: Vahemaandumisega Marsile" ; 666 ; 8 ; 2 ; 1
+;;; "Episood 045: Kes ajas roboti alla?" ; 687 ; 8 ; 4 ; 0
+;;; "Episood 044: Uued iPhone'id on igavad, väga igavad" ; 691 ; 6 ; 1 ; 0
+;;; "Episood 043: Suvevaheaeg kullakangidega" ; 841 ; 7 ; 5 ; 1
+;;; "Episood 042: Hästi palju telefone" ; 876 ; 9 ; 2 ; 0
+;;; "Episood 041: Parem hääl, aga väiksem pea" ; 788 ; 11 ; 2 ; 0
+;;; "Episood 040: Kas alla annab ka tingida?" ; 1162 ; 9 ; 2 ; 2
+;;; "Episood 039: Katkised telefonid" ; 771 ; 10 ; 1 ; 2
+;;; "Episood 038: Kas sina laseksid end kiibistada?" ; 725 ; 8 ; 1 ; 0
+;;; "Episood 037: Märg kevad ja USB kondoomid" ; 715 ; 8 ; 1 ; 0
+;;; "Episood 036: Facebook on nõme ja Uberi kvaliteet on langenud" ; 746 ; 12 ; 1 ; 1
+;;; "Episood 035: Siga lendab!" ; 621 ; 15 ; 2 ; 0
+;;; "Episood 034: Apple tegi uute toodetega revolutsiooni" ; 716 ; 12 ; 2 ; 0
+;;; "Episood 033: Kas noorus on hukas?" ; 853 ; 11 ; 4 ; 1
+;;; "Episood 032: Lennukeid saab juhtida ka metsatalust" ; 593 ; 11 ; 4 ; 0
+;;; "Episood 031: Kaks saatejuhti, kuhjaga uusi telefone ning põnevat arutelu" ; 833 ; 17 ; 5 ; 1
+;;; "Episood 030: Kuulajakiri, Note 7 jõuab uuesti müügile ning kas Apple'ist saab uus Netflix?" ; 703 ; 12 ; 3 ; 0
+;;; "Episood 029: Kultustelefoni tagasitulek tekitas elava arutelu" ; 726 ; 51 ; 5 ; 0
+;;; "Episood 028: Leedukate kaval turunduskampaania ja bitcoini kaevandamine" ; 761 ; 41 ; 5 ; 0
+;;; "Episood 027: Küll nad teevad ikka imelikke asju" ; 802 ; 21 ; 4 ; 1
+;;; "Episood 026: Palju reisimisest" ; 759 ; 15 ; 7 ; 0
+;;; "Episood 025: It's Mario time!" ; 864 ; 16 ; 7 ; 0
+;;; "Episood 024: Vahelduseks veidi rohkem Samsungist" ; 936 ; 29 ; 7 ; 0
+;;; "Episood 023: Jälle autodest" ; 760 ; 11 ; 5 ; 0
+;;; "Episood 022: Tehisintellekt, nutikas reisimine, e-poed ning veel palju muud" ; 840 ; 17 ; 7 ; 0
+;;; "Episood 021: Autod, autod ja veel kord autod" ; 763 ; 14 ; 4 ; 0
+;;; "Episood 020: Tehnoloogia, uus teleteenus ja poliitika" ; 829 ; 22 ; 3 ; 0
+;;; "Episood 019: Uued tuuled tehnoloogiaajakirjanduses ja tehnoloogiamaastikul" ; 742 ; 20 ; 3 ; 2
+;;; "Episood 018: sotsiaalmeedia osakaal ajakirjaniku töös ja Ronaldist sai Michelini tähega kokk" ; 842 ; 21 ; 7 ; 0
+;;; "Episood 017: Taxify kompab sõidujagamise piire" ; 713 ; 20 ; 5 ; 1
+;;; "Episood 016: Note 7 on tõeline häving ja Swedbank on p**** pank" ; 955 ; 31 ; 4 ; 0
+;;; "Episood 015: Hokei! Eriti vahva ja sõbralik saade" ; 834 ; 21 ; 2 ; 0
+;;; "Episood 014: Kuhu kadus Gregor, iPhone 7 mängib ahju ja kes on Kersti Kaljulaid?" ; 800 ; 27 ; 7 ; 0
+;;; "Episood 013: Kes on Paavo, mida me arvame uuest iPhone'ist ja kuidas tundub Tesla Model X" ; 1069 ; 23 ; 7 ; 0
+"Kahepaikne podcast" ; 7 ; 24
+;;; "#24 Jake Tom" ; 7 ; 0 ; 0 ; 0
+;;; "#23 Yauhen Yakimenka" ; 22 ; 0 ; 0 ; 0
+;;; "#22 Alvin Lim & Saburi Ken" ; 9 ; 0 ; 0 ; 0
+;;; "#21 Agnieszka Kunz" ; 4 ; 0 ; 0 ; 0
+;;; "#20 Mira Zimmermann" ; 1 ; 0 ; 0 ; 0
+;;; "#19 Ivan Praštalo" ; 2 ; 0 ; 0 ; 0
+;;; "#18 Valentina Punzi" ; 5 ; 0 ; 0 ; 0
+;;; "#17 James Sienkiewicz" ; 1 ; 0 ; 1 ; 0
+;;; "#16 Eneko Sagarbide" ; 22 ; 0 ; 2 ; 0
+;;; "#12 Jason Mario Dydynski" ; 9 ; 0 ; 2 ; 0
+;;; "#15 Jiří Krejčí" ; 5 ; 0 ; 1 ; 0
+;;; "#14 Ammar Ali Khan & William Tuckwell" ; 6 ; 0 ; 0 ; 0
+;;; "# 13 Brandon Alexander" ; 4 ; 0 ; 0 ; 0
+;;; "#11 Iaroslav Iakubivskyi" ; 14 ; 0 ; 0 ; 0
+;;; "#10 Denton Fredrickson & Mandy Espezel" ; 2 ; 0 ; 0 ; 0
+;;; "#9 Margaret Lyngdoh" ; 2 ; 0 ; 0 ; 0
+;;; "#8 Jazmina Cininas" ; 4 ; 0 ; 0 ; 0
+;;; "#7 Francesco Orsi" ; 2 ; 0 ; 1 ; 0
+;;; "# 6 Nicolás Tamargo" ; 2 ; 0 ; 0 ; 0
+;;; "# 5 Samantha Herrerias" ; 5 ; 0 ; 0 ; 0
+;;; "# 4 Jeremy Macachor" ; 2 ; 0 ; 0 ; 0
+;;; "# 3 Lamees Abdeljalil" ; 10 ; 0 ; 0 ; 0
+;;; "# 2 Simone Cassano" ; 12 ; 0 ; 2 ; 0
+;;; "# 1 Moustafa Gaber Aboughaly" ; 3 ; 0 ; 1 ; 0
