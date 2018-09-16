@@ -1,5 +1,26 @@
 #!/usr/bin/python3
 
+import urllib.request
+import json
+
+pb_ids = [("1483741", "7217aa2d"),
+          ("2752252","538f188e"),
+          ("3045984","086f046d"),
+          ("3146788","086f046d"),
+          ("3340386","2fe807d2")]
+
+for pb_id, pb_w in pb_ids:
+    url = "http://www.podbean.com/api2/public/filesPlays?blogId=%s&query[0][file]=allFile&query[0][w]=%s" % (pb_id, pb_w)
+    print(url)
+     
+    headers = {}
+    headers['User-Agent'] = "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:48.0) Gecko/20100101 Firefox/48.0"
+     
+    req = urllib.request.Request(url, headers=headers)
+    stats = json.loads(urllib.request.urlopen(req).read())
+    if stats["code"]==200:
+        print(stats["data"]["allFile"])
+
 # pip install soundcloud
 
 import soundcloud
@@ -17,3 +38,5 @@ for sc_id in sc_ids:
             print(track.title, track.playback_count, track.download_count, track.favoritings_count, track.comment_count)
         except AttributeError:
             print(track.title, "WITH ERRORS")
+
+
