@@ -1,11 +1,13 @@
-![Postipoiss — viienda võimu südametunnistus](/postipoiss.png)
+![Postipoiss — viienda võimu südametunnistus](/integrlogo.png)
 
 __Eesti kodanikumeedia agregaatori projekt [Loomehäkk vol 6](https://fienta.com/loomehakk-vol-6-creativetech) häkatoni jaoks__
 
 Eesmärgid (valime jõukohase kombo):
 
 * Agregeerime podcaste
-* Märksõnastame, teeme need otsitavaks
+* Integreerime kogukondi
+* Sildame platvorme
+* Märksõnastame, teeme otsitavaks
 * Võimaldame teha pleiliste
 * Võimaldame neid jagada
 * Teeme podcastide edetabeli
@@ -13,7 +15,9 @@ Eesmärgid (valime jõukohase kombo):
 # Projektis osalejad
 
 * Märt Põder | Wikimedia Eesti / Generaadio
-* ...
+* Umar Zarip | Generaadio / Popsicode.ee
+* Mari-Liis Leis | Generaadio
+* Mihkel Keerdo | Podcastid.ee
 
 # Taustajutt
 
