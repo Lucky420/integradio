@@ -17,7 +17,7 @@ Eesmärgid (valime jõukohase kombo):
 * Märt Põder | Wikimedia Eesti / Generaadio
 * Umar Zarip | Generaadio / Popsicode.ee
 * Mari-Liis Leis | Generaadio
-* Mihkel Keerdo | Podcastid.ee
+* Mihkel Keerdo | [Podcastid](https://podcastid.ee)
 
 # Taustajutt
 
